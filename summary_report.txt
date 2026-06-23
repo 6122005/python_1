@@ -1,0 +1,9 @@
+PROMPT TEST SUMMARY
+
+Total Prompts: 15
+
+Winner Prompt:
+Explain Python for AI engineers.
+
+Response Length: 2253
+Response Time: 15.52 sec
